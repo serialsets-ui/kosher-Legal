@@ -11,9 +11,7 @@
     "react": "^18.3.1",
     "react-dom": "^18.3.1",
     "react-router-dom": "^6.28.0",
-    "@emailjs/browser": "^4.4.1"
-  },
-  "devDependencies": {
+    "@emailjs/browser": "^4.4.1",
     "@vitejs/plugin-react": "^4.3.4",
     "vite": "^6.0.5"
   }
